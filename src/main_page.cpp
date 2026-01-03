@@ -3,6 +3,7 @@
 #include <map>
 
 // Objective-C++ 菜单栏函数声明
+// i am coming
 extern "C" {
 	void CreateStatusBarIcon(void *framePtr);
 	void UpdateStatusBarTitle(const char *title);
